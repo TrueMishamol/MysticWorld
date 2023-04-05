@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:golden_chestplate"
+        },
+        "title": "Experience Magnet",
+        "description": "Craft Experience Magnet",
+	"frame": "goal"
+    },
+    "parent": "mystic_world:main/root",
+    "criteria": {
+        "get_experience_magnet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt" : "{HideFlags:7}"
+                    }
+                ]
+            }
+        }
+    }
+}

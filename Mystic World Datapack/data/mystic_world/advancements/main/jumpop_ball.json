@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snowball"
+        },
+        "title": "Jumpop Absorb Ability",
+        "description": "Defeat jumpop part and conquer Jumpop Ball",
+	"frame": "challenge"
+    },
+    "parent": "mystic_world:main/cobalt_star_boss",
+    "criteria": {
+        "conquer_jumpop_ball": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt": "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+      "experience": 512
+    }
+}

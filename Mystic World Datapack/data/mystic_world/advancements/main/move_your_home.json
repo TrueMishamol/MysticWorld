@@ -1,0 +1,44 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:structure_block"
+
+        },
+
+        "title": "Move Your Home",
+
+        "description": "Construct structure machine",
+
+	"frame": "goal"
+
+    },
+
+    "parent": "mystic_world:main/bedrock",
+
+    "criteria": {
+
+        "get_structure_block": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:structure_block"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

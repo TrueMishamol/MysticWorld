@@ -1,0 +1,42 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:leather_helmet"
+
+        },
+
+        "title": "Dungerious Precipitation",
+
+        "description": "Create umbrella to protect from weather"
+
+    },
+
+    "parent": "mystic_world:main/root",
+
+    "criteria": {
+
+        "get_umbrella": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:air"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:rabbit_hide"
+		},
+		"f": {
+			"item": "minecraft:leather"
+		}
+	},
+	"result": {
+		"item": "minecraft:mule_spawn_egg"
+	}
+}

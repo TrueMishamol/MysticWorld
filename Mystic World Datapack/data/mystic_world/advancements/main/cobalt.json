@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "title": "Cobalt",
+        "description": "Strong dark blue metal"
+    },
+    "parent": "mystic_world:main/anti_magic",
+    "criteria": {
+        "get_cobalt": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:lapis_lazuli",
+						"nbt": "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    }
+}

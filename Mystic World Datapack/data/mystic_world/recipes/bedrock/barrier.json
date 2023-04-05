@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"grg",
+		"rBr",
+		"grg"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bedrock"
+		},
+		"g": {
+			"item": "minecraft:glass"
+		},
+		"r": {
+			"item": "minecraft:red_stained_glass"
+		}
+	},
+	"result": {
+		"item": "minecraft:barrier"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"tag": "minecraft:wool"
+		},
+		"f": {
+			"item": "minecraft:mutton"
+		}
+	},
+	"result": {
+		"item": "minecraft:sheep_spawn_egg"
+	}
+}

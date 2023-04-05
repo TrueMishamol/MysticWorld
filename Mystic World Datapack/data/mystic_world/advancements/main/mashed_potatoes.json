@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:potion"
+        },
+        "title": "Mashed Potatoes",
+        "description": "Turn a potion of hunger into a satiety potion"
+    },
+    "parent": "mystic_world:main/root",
+    "criteria": {
+        "mash_potato": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:air"
+                    }
+                ]
+            }
+        }
+    }
+}

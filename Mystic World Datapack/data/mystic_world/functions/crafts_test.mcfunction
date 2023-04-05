@@ -1,0 +1,1 @@
+#execute at @e[nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ~ ~-1 ~ minecraft:dropper{Items:[{Slot:0b,Count:1b,tag:"mystic_world:spawn_eggs"}]} run data merge block ~ ~-1 ~ {Items:[{Slot:4b,id:"minecraft:purpur_block",Count:1b}]}

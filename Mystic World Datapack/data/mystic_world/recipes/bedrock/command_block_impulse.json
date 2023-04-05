@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"qbq",
+		"lBl",
+		"qrq"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bedrock"
+		},
+		"q": {
+			"item": "minecraft:quartz"
+		},
+		"b": {
+			"item": "minecraft:stone_button"
+		},
+		"l": {
+			"item": "minecraft:redstone_lamp"
+		},
+		"r": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:command_block"
+	}
+}

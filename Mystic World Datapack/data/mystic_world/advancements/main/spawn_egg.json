@@ -1,0 +1,96 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:phantom_spawn_egg"
+
+        },
+
+        "title": "You know what would be fun?",
+
+        "description": "Teleport insides out of egg then fill it magic and creature material"
+    },
+
+    "parent": "mystic_world:main/corrupted_teleporter",
+
+    "criteria": {
+
+        "obtain_spawn_egg": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "tag": "mystic_world:spawn_eggs"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+,
+    "rewards": {
+      "recipes": [
+	"mystic_world:spawn_eggs/spawn_creeper",
+	"mystic_world:spawn_eggs/spawn_spider",
+	"mystic_world:spawn_eggs/spawn_cave_spider",
+        "mystic_world:spawn_eggs/spawn_skeleton",
+        "mystic_world:spawn_eggs/spawn_stray",
+        "mystic_world:spawn_eggs/spawn_zombie",
+        "mystic_world:spawn_eggs/spawn_zombie_villager",
+        "mystic_world:spawn_eggs/spawn_husk",
+        "mystic_world:spawn_eggs/spawn_drowned",
+	"mystic_world:spawn_eggs/spawn_witch",
+	"mystic_world:spawn_eggs/spawn_slime",
+	"mystic_world:spawn_eggs/spawn_silverfish",
+	"mystic_world:spawn_eggs/spawn_phantom",
+        "mystic_world:spawn_eggs/spawn_vindication_illager",
+        "mystic_world:spawn_eggs/spawn_evocation_illager",
+        "mystic_world:spawn_eggs/spawn_vex",
+        "mystic_world:spawn_eggs/spawn_guardian",
+        "mystic_world:spawn_eggs/spawn_elder_guardian",
+        "mystic_world:spawn_eggs/spawn_zombie_pigman",
+	"mystic_world:spawn_eggs/spawn_blaze",
+	"mystic_world:spawn_eggs/spawn_wither_skeleton",
+	"mystic_world:spawn_eggs/spawn_ghast",
+	"mystic_world:spawn_eggs/spawn_magma_cube",
+	"mystic_world:spawn_eggs/spawn_enderman",
+	"mystic_world:spawn_eggs/spawn_endermite",
+        "mystic_world:spawn_eggs/spawn_shulker",
+	"mystic_world:spawn_eggs/spawn_cod",
+	"mystic_world:spawn_eggs/spawn_salmon",
+	"mystic_world:spawn_eggs/spawn_tropical_fish",
+	"mystic_world:spawn_eggs/spawn_pufferfish",
+	"mystic_world:spawn_eggs/spawn_dolphin",
+        "mystic_world:spawn_eggs/spawn_squid",
+	"mystic_world:spawn_eggs/spawn_bat",
+	"mystic_world:spawn_eggs/spawn_ocelot",
+	"mystic_world:spawn_eggs/spawn_wolf",
+	"mystic_world:spawn_eggs/spawn_parrot",
+	"mystic_world:spawn_eggs/spawn_polar_bear",
+	"mystic_world:spawn_eggs/spawn_horse",
+	"mystic_world:spawn_eggs/spawn_mule",
+	"mystic_world:spawn_eggs/spawn_donkey",
+	"mystic_world:spawn_eggs/spawn_zombie_horse",
+	"mystic_world:spawn_eggs/spawn_skeleton_horse",
+	"mystic_world:spawn_eggs/spawn_llama",
+	"mystic_world:spawn_eggs/spawn_chicken",
+	"mystic_world:spawn_eggs/spawn_pig",
+	"mystic_world:spawn_eggs/spawn_cow",
+	"mystic_world:spawn_eggs/spawn_mooshroom",
+	"mystic_world:spawn_eggs/spawn_sheep",
+	"mystic_world:spawn_eggs/spawn_rabbit",
+	"mystic_world:spawn_eggs/spawn_turtle",
+	"mystic_world:spawn_eggs/spawn_villager"
+      ]
+    }
+}

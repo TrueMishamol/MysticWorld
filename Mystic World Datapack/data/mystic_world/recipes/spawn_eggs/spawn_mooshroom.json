@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:mycelium"
+		},
+		"f": {
+			"item": "minecraft:beef"
+		}
+	},
+	"result": {
+		"item": "minecraft:mooshroom_spawn_egg"
+	}
+}

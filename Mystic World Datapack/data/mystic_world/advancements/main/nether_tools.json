@@ -1,0 +1,39 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:blaze_rod"
+        },
+        "title": "Nether Tools",
+        "description": "Craft quartz tools with blaze rod"
+    },
+    "parent": "mystic_world:main/root",
+    "criteria": {
+        "get_nether_tool": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+					{
+                        "item": "minecraft:iron_sword",
+						"nbt" : "{HideFlags:7}"
+                    },
+                    {
+                        "item": "minecraft:iron_axe",
+						"Name": "{\"text\":\"Quartz Axe\",\"italic\":false}"
+                    },
+					{
+                        "item": "minecraft:iron_pickaxe",
+						"Name": "{\"text\":\"Quartz Pickaxe\",\"italic\":false}"
+                    },
+					{
+                        "item": "minecraft:iron_hoe",
+						"Name": "{\"text\":\"Quartz Hoe\",\"italic\":false}"
+                    },
+					{
+                        "item": "minecraft:iron_shovel",
+						"Name": "{\"text\":\"Quartz Shovel\",\"italic\":false}"
+                    }
+                ]
+            }
+        }
+    }
+}

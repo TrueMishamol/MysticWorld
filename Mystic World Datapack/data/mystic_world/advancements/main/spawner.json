@@ -1,0 +1,43 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:spawner"
+
+        },
+
+        "title": "White Hole",
+
+        "description": "Re-create mob spawner",
+
+	"frame": "goal"
+    },
+
+    "parent": "mystic_world:main/spawn_egg",
+
+    "criteria": {
+
+        "get_spawner": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:spawner"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

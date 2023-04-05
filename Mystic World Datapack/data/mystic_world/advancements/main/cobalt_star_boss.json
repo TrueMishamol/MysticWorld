@@ -1,0 +1,35 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "title": "Strength of Five",
+        "description": "Put together five ingredients and season it with taaffeite"
+    },
+    "parent": "mystic_world:main/taaffeite_magic",
+    "criteria": {
+        "get_cobalt_star_boss": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:vex_spawn_egg",
+						"nbt": "{HideFlags:1}"
+                    },
+					{
+                        "item": "minecraft:wither_skeleton_spawn_egg",
+						"nbt": "{HideFlags:1}"
+                    },
+					{
+                        "item": "minecraft:cave_spider_spawn_egg",
+						"nbt": "{HideFlags:1}"
+                    },
+					{
+                        "item": "minecraft:phantom_spawn_egg",
+						"nbt": "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    }
+}

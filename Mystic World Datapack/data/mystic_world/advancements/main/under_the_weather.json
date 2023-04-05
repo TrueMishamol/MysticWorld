@@ -1,0 +1,42 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:iron_nugget"
+
+        },
+
+        "title": "Under The Weather",
+
+        "description": "Your Umbrella broken, you upset",
+	"hidden": true
+    },
+
+    "parent": "mystic_world:main/dungerious_precipitation",
+
+    "criteria": {
+
+        "loose_umbrella": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:air"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

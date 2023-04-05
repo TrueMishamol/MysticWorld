@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:horn_coral"
+        },
+        "title": "Golden Renaissance",
+        "description": "Defeat gold part and conquer Golden Rose",
+	"frame": "challenge"
+    },
+    "parent": "mystic_world:main/cobalt_star_boss",
+    "criteria": {
+        "conquer_golden_rose": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt": "{HideFlags:2}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+      "experience": 512
+    }
+}

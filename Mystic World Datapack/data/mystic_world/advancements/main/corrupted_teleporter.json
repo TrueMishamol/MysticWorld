@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:observer"
+        },
+        "title": "Corrupted Teleporter",
+        "description": "Construct Corrupted Teleporter",
+	"frame": "goal"
+    },
+    "parent": "mystic_world:main/taaffeite_magic",
+    "criteria": {
+        "get_corrupted_teleporter": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt": "{HideFlags:8}"
+                    }
+                ]
+            }
+        }
+    }
+}

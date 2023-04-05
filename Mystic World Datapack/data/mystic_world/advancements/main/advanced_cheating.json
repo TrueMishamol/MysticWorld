@@ -1,0 +1,42 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:chain_command_block"
+
+        },
+
+        "title": "Advanced Cheating",
+
+        "description": "Extend your cheat machine"
+
+    },
+
+    "parent": "mystic_world:main/let_us_cheating",
+
+    "criteria": {
+
+        "get_chain_command_block": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:chain_command_block"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

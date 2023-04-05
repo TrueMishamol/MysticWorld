@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:scute"
+		},
+		"f": {
+			"item": "minecraft:seagrass"
+		}
+	},
+	"result": {
+		"item": "minecraft:turtle_spawn_egg"
+	}
+}

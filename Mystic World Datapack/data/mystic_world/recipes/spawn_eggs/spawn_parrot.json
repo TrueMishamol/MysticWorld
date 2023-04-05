@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"fff",
+		"fGf",
+		"fff"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"f": {
+			"item": "minecraft:feather"
+		}
+	},
+	"result": {
+		"item": "minecraft:parrot_spawn_egg"
+	}
+}

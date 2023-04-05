@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:pufferfish"
+		},
+		"f": {
+			"item": "minecraft:pufferfish_bucket"
+		}
+	},
+	"result": {
+		"item": "minecraft:pufferfish_spawn_egg"
+	}
+}

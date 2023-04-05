@@ -1,0 +1,44 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:end_portal_frame"
+
+        },
+
+        "title": "Create Something Else",
+
+        "description": "Get piece of ender portal",
+
+	"frame": "goal"
+
+    },
+
+    "parent": "mystic_world:main/bedrock",
+
+    "criteria": {
+
+        "get_end_portal_frame": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:end_portal_frame"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

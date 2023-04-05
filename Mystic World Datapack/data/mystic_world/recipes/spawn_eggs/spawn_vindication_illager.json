@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:iron_ingot"
+		},
+		"f": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:vindication_illager_spawn_egg"
+	}
+}

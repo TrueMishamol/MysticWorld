@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"f": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:evocation_illager_spawn_egg"
+	}
+}

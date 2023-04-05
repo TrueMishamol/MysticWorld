@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:string"
+		},
+		"f": {
+			"item": "minecraft:stone_button"
+		}
+	},
+	"result": {
+		"item": "minecraft:silverfish_spawn_egg"
+	}
+}

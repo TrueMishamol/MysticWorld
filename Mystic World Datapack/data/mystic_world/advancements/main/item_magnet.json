@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:golden_chestplate"
+        },
+        "title": "Item Magnet",
+        "description": "Craft Item Magnet",
+	"frame": "goal"
+    },
+    "parent": "mystic_world:main/root",
+    "criteria": {
+        "get_item_magnet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt" : "{HideFlags:6}"
+                    }
+                ]
+            }
+        }
+    }
+}

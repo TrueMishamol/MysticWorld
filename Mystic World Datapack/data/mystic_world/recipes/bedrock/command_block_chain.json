@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"pop",
+		"lBl",
+		"prp"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bedrock"
+		},
+		"p": {
+			"item": "minecraft:prismarine_shard"
+		},
+		"o": {
+			"item": "minecraft:observer"
+		},
+		"l": {
+			"item": "minecraft:redstone_lamp"
+		},
+		"r": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:chain_command_block"
+	}
+}

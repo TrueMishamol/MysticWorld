@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:golden_pickaxe"
+        },
+        "title": "Gold Miner",
+        "description": "Brilliantly mining"
+    },
+    "parent": "mystic_world:main/crystallized_magic",
+    "criteria": {
+        "get_gold_miner": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:golden_pickaxe",
+						"nbt": "{HideFlags:8}"
+                    }
+                ]
+            }
+        }
+    }
+}

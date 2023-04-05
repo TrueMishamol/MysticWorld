@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:glass_bottle"
+		},
+		"f": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:witch_spawn_egg"
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "title": "Ultra Fuel",
+        "description": "Infinite smelting"
+    },
+    "parent": "mystic_world:main/infinite_torch",
+    "criteria": {
+        "ultra_fuel": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:flint",
+						"nbt" : "{HideFlags:7}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"fff",
+		"fGf",
+		"fff"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"f": {
+			"item": "minecraft:magma_cream"
+		}
+	},
+	"result": {
+		"item": "minecraft:magma_cube_spawn_egg"
+	}
+}

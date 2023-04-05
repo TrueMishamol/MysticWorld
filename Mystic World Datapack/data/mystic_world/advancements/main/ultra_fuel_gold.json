@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gold_ingot"
+        },
+        "title": "Ultra Fuel",
+        "description": "Infinite smelting"
+    },
+    "parent": "mystic_world:main/ultra_fuel_iron",
+    "criteria": {
+        "ultra_fuel": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:gold_ingot",
+						"nbt" : "{HideFlags:7}"
+                    }
+                ]
+            }
+        }
+    }
+}

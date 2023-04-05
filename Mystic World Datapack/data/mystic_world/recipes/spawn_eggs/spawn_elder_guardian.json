@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:prismarine_crystals"
+		},
+		"f": {
+			"item": "minecraft:wet_sponge"
+		}
+	},
+	"result": {
+		"item": "minecraft:elder_guardian_spawn_egg"
+	}
+}

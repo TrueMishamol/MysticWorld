@@ -1,0 +1,44 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:enchanting_table"
+
+        },
+
+        "title": "Tool Mixer",
+
+        "description": "Construct Tool Mixer",
+
+	"frame": "goal"
+
+    },
+
+    "parent": "mystic_world:main/taaffeite_magic",
+
+    "criteria": {
+
+        "get_tool_mixer": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:air"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

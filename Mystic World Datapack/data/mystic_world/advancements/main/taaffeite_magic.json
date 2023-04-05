@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        "title": "Taaffeite Magic",
+        "description": "Mine rarest ore on planet"
+    },
+    "parent": "mystic_world:main/gold_miner",
+    "criteria": {
+        "get_taaffeite": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:popped_chorus_fruit",
+						"nbt": "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    }
+}

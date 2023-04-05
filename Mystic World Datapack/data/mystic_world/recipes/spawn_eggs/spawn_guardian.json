@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:prismarine_shard"
+		},
+		"f": {
+			"item": "minecraft:pufferfish"
+		}
+	},
+	"result": {
+		"item": "minecraft:guardian_spawn_egg"
+	}
+}

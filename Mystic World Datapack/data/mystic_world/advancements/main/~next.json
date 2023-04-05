@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire"
+        },
+        "title": "Fourth Aggregate State",
+        "description": "Take plasm in your hands",
+	"frame": "challenge",
+	"hidden": true
+    },
+    "parent": "mystic_world:main/root",
+    "criteria": {
+        "get_fire_inventory": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fire"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+      "experience": 1024,
+      "recipes": [
+        "custom:command_block_impulse"
+      ]
+    }
+}

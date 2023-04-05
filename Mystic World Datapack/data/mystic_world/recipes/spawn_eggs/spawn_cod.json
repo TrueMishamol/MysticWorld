@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:cod"
+		},
+		"f": {
+			"item": "minecraft:cod_bucket"
+		}
+	},
+	"result": {
+		"item": "minecraft:cod_spawn_egg"
+	}
+}

@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "title": "Cobalt Star Boiling Energy",
+        "description": "Defeat all part and final free Cobalt Star",
+	"frame": "challenge"
+    },
+    "parent": "mystic_world:main/cobalt_star_boss",
+    "criteria": {
+        "conquer_cobalt_star": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt": "{HideFlags:5}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+      "experience": 512
+    }
+}

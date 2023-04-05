@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:leather"
+		},
+		"f": {
+			"item": "minecraft:beef"
+		}
+	},
+	"result": {
+		"item": "minecraft:cow_spawn_egg"
+	}
+}

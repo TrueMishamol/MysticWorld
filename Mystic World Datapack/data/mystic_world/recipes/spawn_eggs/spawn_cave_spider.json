@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:cobweb"
+		},
+		"f": {
+			"item": "minecraft:spider_eye"
+		}
+	},
+	"result": {
+		"item": "minecraft:cave_spider_spawn_egg"
+	}
+}

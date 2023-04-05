@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sponge"
+        },
+        "title": "Anti Magic",
+        "description": "Absorb all magic from crystal"
+    },
+    "parent": "mystic_world:main/crystallized_magic",
+    "criteria": {
+        "get_anti_magic": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dandelion_yellow",
+						"nbt": "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:written_book"
+        },
+        "title": "Delivery",
+        "description": "Write End Poem",
+	"frame": "goal"
+    },
+    "parent": "mystic_world:main/root",
+    "criteria": {
+        "write_poem": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:written_book",
+						"nbt" : "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"cmc",
+		"lBl",
+		"crc"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bedrock"
+		},
+		"c": {
+			"item": "minecraft:chorus_fruit_popped"
+		},
+		"m": {
+			"item": "minecraft:repeater"
+		},
+		"l": {
+			"item": "minecraft:redstone_lamp"
+		},
+		"r": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:repeating_command_block"
+	}
+}

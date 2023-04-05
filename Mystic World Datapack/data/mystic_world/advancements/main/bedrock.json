@@ -1,0 +1,55 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:bedrock"
+
+        },
+
+        "title": "Break Unbreakable",
+
+        "description": "Use Corrupted Teleporter on Bedrock",
+
+	"frame": "challenge"
+    },
+
+    "parent": "mystic_world:main/corrupted_teleporter",
+
+    "criteria": {
+
+        "get_bedrock": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:bedrock"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+,
+    "rewards": {
+      "experience": 1024
+,
+      "recipes": [
+        "mystic_world:bedrock/barrier",
+        "mystic_world:bedrock/structure_block",
+        "mystic_world:bedrock/end_portal_frame",
+        "mystic_world:bedrock/command_block_impulse",
+        "mystic_world:bedrock/command_block_chain",
+        "mystic_world:bedrock/command_block_repeat"
+      ]
+    }
+}

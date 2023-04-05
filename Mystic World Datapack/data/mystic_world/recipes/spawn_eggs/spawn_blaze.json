@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"fff",
+		"fGf",
+		"fff"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"f": {
+			"item": "minecraft:blaze_rod"
+		}
+	},
+	"result": {
+		"item": "minecraft:blaze_spawn_egg"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"iii",
+		"iii",
+		"iii"
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:light_gray_stained_glass_pane"
+		}
+	},
+	"result": {
+		"item": "minecraft:structure_void",
+		"count": 27
+	}
+}

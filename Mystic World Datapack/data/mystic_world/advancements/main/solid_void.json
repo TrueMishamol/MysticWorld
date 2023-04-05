@@ -1,0 +1,42 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:barrier"
+
+        },
+
+        "title": "Solid Void",
+
+        "description": "It's red?"
+
+    },
+
+    "parent": "mystic_world:main/bedrock",
+
+    "criteria": {
+
+        "get_barrier": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:barrier"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

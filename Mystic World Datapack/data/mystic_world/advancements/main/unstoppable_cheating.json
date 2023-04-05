@@ -1,0 +1,44 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:repeating_command_block"
+
+        },
+
+        "title": "Unstoppable Cheating",
+
+        "description": "Short-circuiting cheat machine",
+
+	"frame": "goal"
+
+    },
+
+    "parent": "mystic_world:main/advanced_cheating",
+
+    "criteria": {
+
+        "get_repeating_command_block": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:repeating_command_block"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

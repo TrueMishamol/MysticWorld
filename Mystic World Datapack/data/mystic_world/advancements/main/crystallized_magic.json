@@ -1,0 +1,42 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:lapis_lazuli"
+
+        },
+
+        "title": "Crystallized Magic",
+
+        "description": "Mine Magic Ore"
+
+    },
+
+    "parent": "mystic_world:main/root",
+
+    "criteria": {
+
+        "get_magic": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:lapis_lazuli"
+
+                    }
+
+                ]
+            }
+
+        }
+
+    }
+
+}

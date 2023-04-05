@@ -1,0 +1,53 @@
+{
+
+    "display": {
+
+        "icon": {
+
+            "item": "minecraft:diamond_hoe"
+
+        },
+
+        "title": "Mystic World",
+        "description": "Starting Mysterious Surviving!",
+
+        "background": "minecraft:textures/block/andesite.png",
+
+        "show_toast": false,
+
+        "announce_to_chat": false
+    },
+
+    "criteria": {
+
+        "mystic_world_start": {
+
+            "trigger": "minecraft:inventory_changed",
+
+            "conditions": {
+
+                "items": [
+
+                    {
+
+                        "item": "minecraft:diamond_hoe"
+
+                    }
+
+                ]
+
+            }
+
+        }
+
+    },
+
+    "rewards": {
+      "experience": 1
+,
+      "recipes": [
+        "mystic_world:structure_void"
+      ],
+      "function": "mystic_world:basil"
+    }
+}

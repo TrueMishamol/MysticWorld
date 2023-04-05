@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:red_mushroom"
+        },
+        "title": "Hardore Infinite Food",
+        "description": "Defeat hardore part and conquer Hardore Corn",
+	"frame": "challenge"
+    },
+    "parent": "mystic_world:main/cobalt_star_boss",
+    "criteria": {
+        "conquer_hardore_corn": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star",
+						"nbt": "{HideFlags:4}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+      "experience": 512
+    }
+}

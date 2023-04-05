@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:bone"
+		},
+		"f": {
+			"item": "minecraft:snow_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:stray_spawn_egg"
+	}
+}

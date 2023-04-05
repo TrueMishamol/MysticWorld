@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gold_ingot"
+        },
+        "title": "Ultra Metal",
+        "description": "Fusion of Molten Cobalt and Hardore Gel"
+    },
+    "parent": "mystic_world:main/anti_magic",
+    "criteria": {
+        "get_ultra_ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:gold_ingot",
+						"nbt": "{HideFlags:1}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+function mystic_world:give_materials
+function mystic_world:give_superior
+function mystic_world:give_additional
+function mystic_world:give_compressed_parted
+function mystic_world:give_potions

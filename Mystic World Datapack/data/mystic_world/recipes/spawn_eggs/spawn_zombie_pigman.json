@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sfs",
+		"fGf",
+		"sfs"
+	],
+	"key": {
+		"G": {
+			"tag": "mystic_world:spawn_eggs"
+		},
+		"s": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"f": {
+			"item": "minecraft:porkchop"
+		}
+	},
+	"result": {
+		"item": "minecraft:zombie_pigman_spawn_egg"
+	}
+}
