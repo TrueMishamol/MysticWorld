@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:stone_hoe",Count:1b,tag:{Tags:["mystic_world","crystal_hoe"],CustomModelData:7162663,display:{Name:'[{"text":"Crystal Hoe","italic":false}]'},AttributeModifiers:[{AttributeName:"generic.attack_speed",Name:"generic.attackSpeed",Amount:-1,Operation:0,UUID:[I;963964491,1908425495,-1219869238,-1968851736],Slot:"mainhand"}]}		}}

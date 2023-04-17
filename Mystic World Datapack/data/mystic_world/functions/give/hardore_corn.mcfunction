@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:nether_star",Count:1b,tag:{Tags:["mystic_world","hardore_corn"],CustomModelData:7162663,display:{Name:'[{"text":"Hardore Corn","italic":false}]'},HideFlags:4}		}}

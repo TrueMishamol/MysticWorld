@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:leather_boots",Count:1b,tag:{Tags:["mystic_world","chainmailleather_boots"],CustomModelData:7162663,display:{Name:'[{"text":"Chainmailleather Boots","italic":false}]'},AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:2,Operation:0,UUID:[I;-903424749,162941286,-2024300162,638696786],Slot:"feet"}]}		}}

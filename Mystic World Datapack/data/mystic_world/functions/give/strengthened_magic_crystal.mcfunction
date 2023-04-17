@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:popped_chorus_fruit",Count:1b,tag:{Tags:["mystic_world","strengthened_magic_crystal"],CustomModelData:7162663,display:{Name:'[{"text":"Strengthened Magic Crystal","italic":false}]'},HideFlags:2}		}}

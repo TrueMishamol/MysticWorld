@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "O",
+    "O",
+    "O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:clay",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

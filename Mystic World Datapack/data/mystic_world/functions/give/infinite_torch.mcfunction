@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:flint_and_steel",Count:1b,tag:{Tags:["mystic_world","infinite_torch"],CustomModelData:7162663,display:{Name:'[{"text":"Infinite Torch","italic":false}]'},Unbreakable:1b,Enchantments:[{id:"minecraft:fire_aspect",lvl:1}],HideFlags:1}		}}

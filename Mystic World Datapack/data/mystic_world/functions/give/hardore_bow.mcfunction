@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:bow",Count:1b,tag:{Tags:["mystic_world","hardore_bow"],CustomModelData:7162663,display:{Name:'[{"text":"Hardore Bow","italic":false}]'},Unbreakable:1b,Enchantments:[{id:"minecraft:power",lvl:6},{id:"minecraft:infinity",lvl:1}]}		}}

@@ -18,19 +18,19 @@
                     },
                     {
                         "item": "minecraft:iron_axe",
-						"Name": "{\"text\":\"Quartz Axe\",\"italic\":false}"
+						"Name": "{"text":"Quartz Axe","italic":false}"
                     },
 					{
                         "item": "minecraft:iron_pickaxe",
-						"Name": "{\"text\":\"Quartz Pickaxe\",\"italic\":false}"
+						"Name": "{"text":"Quartz Pickaxe","italic":false}"
                     },
 					{
                         "item": "minecraft:iron_hoe",
-						"Name": "{\"text\":\"Quartz Hoe\",\"italic\":false}"
+						"Name": "{"text":"Quartz Hoe","italic":false}"
                     },
 					{
                         "item": "minecraft:iron_shovel",
-						"Name": "{\"text\":\"Quartz Shovel\",\"italic\":false}"
+						"Name": "{"text":"Quartz Shovel","italic":false}"
                     }
                 ]
             }

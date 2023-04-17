@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:lapis_lazuli",Count:1b,tag:{Tags:["mystic_world","cobalt_block"],CustomModelData:7162663,display:{Name:'[{"text":"Cobalt Block","italic":false}]'},HideFlags:3}		}}

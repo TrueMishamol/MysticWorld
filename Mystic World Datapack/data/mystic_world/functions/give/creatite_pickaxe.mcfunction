@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:iron_pickaxe",Count:1b,tag:{Tags:["mystic_world","creatite_pickaxe"],CustomModelData:7162663,display:{Name:'[{"text":"Creatite Pickaxe","italic":false}]'},Enchantments:[{id:"minecraft:unbreaking",lvl:1}]}		}}

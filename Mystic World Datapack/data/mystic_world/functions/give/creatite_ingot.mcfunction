@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:iron_ingot",Count:1b,tag:{Tags:["mystic_world","creatite_ingot"],CustomModelData:7162663,display:{Name:'[{"text":"Creatite Ingot","italic":false}]'},HideFlags:1}		}}

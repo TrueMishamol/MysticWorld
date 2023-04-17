@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:golden_pickaxe",Count:1b,tag:{Tags:["mystic_world","gold_miner"],CustomModelData:7162663,display:{Name:'[{"text":"Gold Miner","italic":false}]'},HideFlags:8,Unbreakable:1b,Enchantments:[{id:"minecraft:efficiency",lvl:6}]}		}}

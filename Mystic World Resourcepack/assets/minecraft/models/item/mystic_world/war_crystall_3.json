@@ -1,0 +1,6 @@
+war_crystall_3{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/mystic_world/war_crystall_3"
+    }
+}

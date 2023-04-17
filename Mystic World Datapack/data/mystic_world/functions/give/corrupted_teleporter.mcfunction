@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:nether_star",Count:1b,tag:{Tags:["mystic_world","corrupted_teleporter"],CustomModelData:7162663,display:{Name:'[{"text":"Corrupted Teleporter","italic":false}]'},HideFlags:8}		}}

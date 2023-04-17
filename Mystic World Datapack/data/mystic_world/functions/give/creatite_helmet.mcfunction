@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:iron_helmet",Count:1b,tag:{Tags:["mystic_world","creatite_helmet"],CustomModelData:7162663,display:{Name:'[{"text":"Creatite Helmet","italic":false}]'},Enchantments:[{id:"minecraft:unbreaking",lvl:1}]}		}}

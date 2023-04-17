@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:light_gray_dye",Count:1b,tag:{Tags:["mystic_world","jumpop_block"],CustomModelData:7162663,display:{Name:'[{"text":"Jumpop Block","italic":false}]'},HideFlags:3}		}}

@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:gold_ingot",Count:1b,tag:{Tags:["mystic_world","ultra_fuel_gold"],CustomModelData:7162663,display:{Name:'[{"text":"Ultra Fuel Gold","italic":false}]',Lore:['[{"text":"Infinity Fuel"},{"text":"50 Cooking Time"}]']},HideFlags:7}			}}

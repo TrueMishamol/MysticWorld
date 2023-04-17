@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:iron_ingot",Count:1b,tag:{Tags:["mystic_world","spawner_shard"],CustomModelData:7162663,display:{Name:'[{"text":"Spawner Shard","italic":false}]'},HideFlags:4}			}}

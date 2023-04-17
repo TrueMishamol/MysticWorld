@@ -1,5 +1,5 @@
 {
 	"values":	[
-		"mystic_world:setup"
+		"mystic_world:on_load"
 	]
 }

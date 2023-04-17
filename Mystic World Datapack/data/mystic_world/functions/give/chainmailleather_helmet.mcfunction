@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:leather_helmet",Count:1b,tag:{Tags:["mystic_world","chainmailleather_helmet"],CustomModelData:7162663,display:{Name:'[{"text":"Chainmailleather Helmet","italic":false}]'},AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:3,Operation:0,UUID:[I;-1100561667,-2034941732,-1436544321,-1555707619],Slot:"head"}]}		}}

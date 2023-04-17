@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:fishing_rod",Count:1b,tag:{Tags:["mystic_world","ultra_fishing_rod"],CustomModelData:7162663,display:{Name:'[{"text":"Ultra Fishing Rod","italic":false}]'},Unbreakable:1b}		}}

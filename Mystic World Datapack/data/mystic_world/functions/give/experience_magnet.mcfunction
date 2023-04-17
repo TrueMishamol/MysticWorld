@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:nether_star",Count:1b,tag:{Tags:["mystic_world","experience_magnet"],CustomModelData:7162663,display:{Name:'[{"text":"Experience Magnet","italic":false}]'},HideFlags:7}		}}

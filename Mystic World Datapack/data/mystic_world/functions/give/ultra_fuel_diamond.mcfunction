@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:diamond",Count:1b,tag:{Tags:["mystic_world","ultra_fuel_diamond"],CustomModelData:7162663,display:{Name:'[{"text":"Ultra Fuel Diamond","italic":false}]',Lore:['[{"text":"Infinity Fuel"},{"text":"Instant Cooking"}]']},HideFlags:7}			}}

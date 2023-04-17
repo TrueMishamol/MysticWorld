@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:iron_boots",Count:1b,tag:{Tags:["mystic_world","creatite_boots"],CustomModelData:7162663,display:{Name:'[{"text":"Creatite Boots","italic":false}]'},Enchantments:[{id:"minecraft:unbreaking",lvl:1}]}		}}

@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:iron_leggings",Count:1b,tag:{Tags:["mystic_world","creatite_leggings"],CustomModelData:7162663,display:{Name:'[{"text":"Creatite Leggings","italic":false}]'},Enchantments:[{id:"minecraft:unbreaking",lvl:1}]}		}}

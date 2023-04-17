@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:diamond_hoe",Count:1b,tag:{Tags:["mystic_world","ultra_hoe"],CustomModelData:7162663,display:{Name:'[{"text":"Ultra Hoe","italic":false}]'},Unbreakable:1b,AttributeModifiers:[{AttributeName:"generic.attack_speed",Name:"generic.attackSpeed",Amount:1,Operation:0,UUID:[I;-817231628,-1531098509,-1914558372,623932732],Slot:"mainhand"}]}		}}

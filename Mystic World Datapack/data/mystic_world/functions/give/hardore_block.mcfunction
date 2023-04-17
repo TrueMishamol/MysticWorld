@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:red_dye",Count:1b,tag:{Tags:["mystic_world","hardore_block"],CustomModelData:7162663,display:{Name:'[{"text":"Hardore Block","italic":false}]'},HideFlags:3}		}}

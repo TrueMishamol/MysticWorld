@@ -1,0 +1,1 @@
+function mystic_world:craft/check/keep_inventory_book

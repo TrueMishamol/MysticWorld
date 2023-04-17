@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:popped_chorus_fruit",Count:1b,tag:{Tags:["mystic_world","taaffeite"],CustomModelData:7162663,display:{Name:'[{"text":"Taaffeite","italic":false}]'},HideFlags:1}		}}

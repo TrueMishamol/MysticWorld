@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:flint",Count:1b,tag:{Tags:["mystic_world","ultra_fuel_coal"],CustomModelData:7162663,display:{Name:'[{"text":"Ultra Fuel Coal","italic":false}]',Lore:['[{"text":"Infinity Fuel"}]']},HideFlags:7}		}}
