@@ -14,21 +14,23 @@ Right now I'm working on refactoring. Next I plan to slowly recreate each item i
 # Installation
  
 1. Install OptiFine
+
+2. [Download Mystic World](https://github.com/TrueMishamol/MysticWorld/releases/) for appropriate Minecraft version
  
 ### Windows
 
-2. Place "Mystic World Datapack" into
+3. Place "Mystic World Datapack" into
 `%APPDATA%\.minecraft\saves\WORLD\datapacks\`
 
-3. Place "Mystic World Resourcepack" into
+4. Place "Mystic World Resourcepack" into
 `%APPDATA%\.minecraft\resourcepacks\`
 
 ### MacOS
 
-2. Place "Mystic World Datapack" into
+3. Place "Mystic World Datapack" into
 `~/Library/Application Support/minecraft/saves/WORLD/datapacks/`
 
-3. Place "Mystic World Resourcepack" into
+4. Place "Mystic World Resourcepack" into
 `~/Library/Application Support/minecraft/resourcepacks/`
 
 # Start to play
