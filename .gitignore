@@ -49,7 +49,7 @@ _builds/
 _build/
 _export/
 _materials/
-_releases
+_releases/
 
 	# Export
 *.exe
