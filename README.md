@@ -7,7 +7,7 @@ It adds new tools, materials, bosses etc. In future I wish to even add some new 
 Right now I'm working on refactoring. Next I plan to slowly recreate each item individually piece-by-piece, and achieve that each tool will be unique and "noteworthy"
 
 ### Made by Mishamol
-[mishamol.ru](https://mishamol.ru/)
+[Mishamol.ru](https://mishamol.ru/)
 
 [YouTube](https://www.youtube.com/channel/UCeskH_fQxUv_R5OD9ZXuphA)
 
